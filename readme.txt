@@ -6,3 +6,6 @@ Copyright information for the template can't be altered/removed unless you purch
 More information about the license is available here: https://colorlib.com/wp/licence/
 
 Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+****************************************************************************************************************************
+Se han agregado las funciones para las carátulas en index.html
+Ahora es posible ir directamente al listado de capítulos de cada serie con tan sólo hacer clic sobre la imagen de la misma desde la página principal.
