@@ -1,4 +1,4 @@
-/*Estas funciones son EXCLUSIVAS para su uso en todas las páginas dentro del index.html*/
+//Estas funciones son EXCLUSIVAS para su uso en todas las páginas dentro del index.html
 function redireccionarHamefura() {
     location.href="proyectos/Hamefura/SINOPSIS.html";
 }
@@ -26,7 +26,7 @@ function redireccionarJunniTaisen() {
 function redireccionarKonosuba() {
     location.href="https://fandubvarios.github.io/web/proyectos/KONOSUBA/SINOPSIS.html";
 }
-/*Estas funciones son EXCLUSIVAS para su uso en todas las páginas dentro de la carpeta Proyectos*/
+//Estas funciones son EXCLUSIVAS para su uso en todas las páginas dentro de la carpeta Proyectos
 function redireccionarHamefura_2() {
     location.href="../proyectos/Hamefura/SINOPSIS.html";
 }
