@@ -34,7 +34,7 @@ function redireccionarKotoura_2() {
     location.href="../proyectos/KOTOURA-SAN/SINOPSIS.html";
 }
 function redireccionarPhantom_2() {
-    location.href="..proyectos/PHANTOM/SINOPSIS.html";
+    location.href="../proyectos/PHANTOM/SINOPSIS.html";
 }
 function redireccionarInuyashiki_2() {
     location.href="../proyectos/INUYASHIKI/SINOPSIS.html";
